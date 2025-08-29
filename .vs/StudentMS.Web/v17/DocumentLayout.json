@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Frame\\StudentMS.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A505D3FC-87A1-41A7-A058-8A5482422E04}|StudentMS.Web\\StudentMS.Web.csproj|z:\\frame\\studentms.web\\studentms.web\\migrations\\20250710110820_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A505D3FC-87A1-41A7-A058-8A5482422E04}|StudentMS.Web\\StudentMS.Web.csproj|solutionrelative:studentms.web\\migrations\\20250710110820_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A505D3FC-87A1-41A7-A058-8A5482422E04}|StudentMS.Web\\StudentMS.Web.csproj|z:\\frame\\studentms.web\\studentms.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A505D3FC-87A1-41A7-A058-8A5482422E04}|StudentMS.Web\\StudentMS.Web.csproj|solutionrelative:studentms.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A505D3FC-87A1-41A7-A058-8A5482422E04}|StudentMS.Web\\StudentMS.Web.csproj|z:\\frame\\studentms.web\\studentms.web\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A505D3FC-87A1-41A7-A058-8A5482422E04}|StudentMS.Web\\StudentMS.Web.csproj|solutionrelative:studentms.web\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A505D3FC-87A1-41A7-A058-8A5482422E04}|StudentMS.Web\\StudentMS.Web.csproj|z:\\frame\\studentms.web\\studentms.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A505D3FC-87A1-41A7-A058-8A5482422E04}|StudentMS.Web\\StudentMS.Web.csproj|solutionrelative:studentms.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A505D3FC-87A1-41A7-A058-8A5482422E04}|StudentMS.Web\\StudentMS.Web.csproj|z:\\frame\\studentms.web\\studentms.web\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A505D3FC-87A1-41A7-A058-8A5482422E04}|StudentMS.Web\\StudentMS.Web.csproj|solutionrelative:studentms.web\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A505D3FC-87A1-41A7-A058-8A5482422E04}|StudentMS.Web\\StudentMS.Web.csproj|z:\\frame\\studentms.web\\studentms.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A505D3FC-87A1-41A7-A058-8A5482422E04}|StudentMS.Web\\StudentMS.Web.csproj|solutionrelative:studentms.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A505D3FC-87A1-41A7-A058-8A5482422E04}|StudentMS.Web\\StudentMS.Web.csproj|z:\\frame\\studentms.web\\studentms.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A505D3FC-87A1-41A7-A058-8A5482422E04}|StudentMS.Web\\StudentMS.Web.csproj|solutionrelative:studentms.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A505D3FC-87A1-41A7-A058-8A5482422E04}|StudentMS.Web\\StudentMS.Web.csproj|z:\\frame\\studentms.web\\studentms.web\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A505D3FC-87A1-41A7-A058-8A5482422E04}|StudentMS.Web\\StudentMS.Web.csproj|solutionrelative:studentms.web\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A505D3FC-87A1-41A7-A058-8A5482422E04}|StudentMS.Web\\StudentMS.Web.csproj|z:\\frame\\studentms.web\\studentms.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A505D3FC-87A1-41A7-A058-8A5482422E04}|StudentMS.Web\\StudentMS.Web.csproj|solutionrelative:studentms.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A505D3FC-87A1-41A7-A058-8A5482422E04}|StudentMS.Web\\StudentMS.Web.csproj|z:\\frame\\studentms.web\\studentms.web\\studentms.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A505D3FC-87A1-41A7-A058-8A5482422E04}|StudentMS.Web\\StudentMS.Web.csproj|solutionrelative:studentms.web\\studentms.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "Z:\\Frame\\StudentMS.Web\\StudentMS.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentMS.Web\\appsettings.json",
+              "ToolTip": "Z:\\Frame\\StudentMS.Web\\StudentMS.Web\\appsettings.json",
+              "RelativeToolTip": "StudentMS.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T11:59:49.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "Z:\\Frame\\StudentMS.Web\\StudentMS.Web\\Views\\Student\\Add.cshtml",
+              "RelativeDocumentMoniker": "StudentMS.Web\\Views\\Student\\Add.cshtml",
+              "ToolTip": "Z:\\Frame\\StudentMS.Web\\StudentMS.Web\\Views\\Student\\Add.cshtml",
+              "RelativeToolTip": "StudentMS.Web\\Views\\Student\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T12:51:51.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Frame\\StudentMS.Web\\StudentMS.Web\\Program.cs",
+              "RelativeDocumentMoniker": "StudentMS.Web\\Program.cs",
+              "ToolTip": "Z:\\Frame\\StudentMS.Web\\StudentMS.Web\\Program.cs",
+              "RelativeToolTip": "StudentMS.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T11:54:24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "Z:\\Frame\\StudentMS.Web\\StudentMS.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentMS.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "Z:\\Frame\\StudentMS.Web\\StudentMS.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentMS.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T12:28:21.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250710110820_InitialMigration.cs",
+              "DocumentMoniker": "Z:\\Frame\\StudentMS.Web\\StudentMS.Web\\Migrations\\20250710110820_InitialMigration.cs",
+              "RelativeDocumentMoniker": "StudentMS.Web\\Migrations\\20250710110820_InitialMigration.cs",
+              "ToolTip": "Z:\\Frame\\StudentMS.Web\\StudentMS.Web\\Migrations\\20250710110820_InitialMigration.cs",
+              "RelativeToolTip": "StudentMS.Web\\Migrations\\20250710110820_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T11:08:21.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "Z:\\Frame\\StudentMS.Web\\StudentMS.Web\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentMS.Web\\Controllers\\StudentController.cs",
+              "ToolTip": "Z:\\Frame\\StudentMS.Web\\StudentMS.Web\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentMS.Web\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T12:39:01.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbcontext.cs",
+              "DocumentMoniker": "Z:\\Frame\\StudentMS.Web\\StudentMS.Web\\Data\\ApplicationDbcontext.cs",
+              "RelativeDocumentMoniker": "StudentMS.Web\\Data\\ApplicationDbcontext.cs",
+              "ToolTip": "Z:\\Frame\\StudentMS.Web\\StudentMS.Web\\Data\\ApplicationDbcontext.cs",
+              "RelativeToolTip": "StudentMS.Web\\Data\\ApplicationDbcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T11:56:25.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "Z:\\Frame\\StudentMS.Web\\StudentMS.Web\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentMS.Web\\Models\\Student.cs",
+              "ToolTip": "Z:\\Frame\\StudentMS.Web\\StudentMS.Web\\Models\\Student.cs",
+              "RelativeToolTip": "StudentMS.Web\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T12:11:26.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "Z:\\Frame\\StudentMS.Web\\StudentMS.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentMS.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "Z:\\Frame\\StudentMS.Web\\StudentMS.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentMS.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T13:05:54.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentMS.Web.csproj",
+              "DocumentMoniker": "Z:\\Frame\\StudentMS.Web\\StudentMS.Web\\StudentMS.Web.csproj",
+              "RelativeDocumentMoniker": "StudentMS.Web\\StudentMS.Web.csproj",
+              "ToolTip": "Z:\\Frame\\StudentMS.Web\\StudentMS.Web\\StudentMS.Web.csproj",
+              "RelativeToolTip": "StudentMS.Web\\StudentMS.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-09T11:49:54.75Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
