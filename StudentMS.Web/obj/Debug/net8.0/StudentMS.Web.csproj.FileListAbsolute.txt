@@ -166,3 +166,4 @@ Z:\Frame\StudentMS.Web\StudentMS.Web\obj\Debug\net8.0\refint\StudentMS.Web.dll
 Z:\Frame\StudentMS.Web\StudentMS.Web\obj\Debug\net8.0\StudentMS.Web.pdb
 Z:\Frame\StudentMS.Web\StudentMS.Web\obj\Debug\net8.0\StudentMS.Web.genruntimeconfig.cache
 Z:\Frame\StudentMS.Web\StudentMS.Web\obj\Debug\net8.0\ref\StudentMS.Web.dll
+Z:\Frame\StudentMS.Web\StudentMS.Web\obj\Debug\net8.0\StudentMS.Web.sourcelink.json
